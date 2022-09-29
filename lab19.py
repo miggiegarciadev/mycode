@@ -66,4 +66,4 @@ else:
 # Use an f-string to neatly combine these elements into a sentence.
 print(f"{name} always uses {wordbank[2]} {wordbank[1]} to indent.")
 
-#instructor says this is not a good solution because some of the things we havent covered yet  and to completely ignore the megabonus since it invovles the conditionals
+#FIND A NEW SOLUTION!!! instructor says this is not a good solution because some of the things we havent covered yet  and to completely ignore the megabonus since it invovles the conditionals
